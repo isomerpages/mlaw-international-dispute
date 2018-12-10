@@ -1,0 +1,39 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: About
+  url: /left-nav-one/conference-programme/
+  sub-links:
+  - title: Conference Programme
+    url: /left-nav-one/conference-programme/
+  - title: Conference Speakers
+    url: /left-nav-one/conference-speakers/
+  - title: Partner Organisations
+    url: /left-nav-one/partner-organisations/
+- title: Registration
+  url: /registration/
+- title: Media
+  url: /resource-room/
+  sub-links:
+  - title: All
+    url: /resource-room/
+  - title: Subcategory A
+    url: /resource-room/subcategory-A/
+  - title: Subcategory B
+    url: /resource-room/subcategory-B/
+  - title: Subcategory C
+    url: /resource-room/subcategory-C/
+- title: Visitor Information
+  url: /left-nav-two/travel-accomadation/
+  sub-links:
+  - title: Travel Accomadation
+    url: /left-nav-two/travel-accomadation/
+  - title: Getting There
+    url: /left-nav-two/getting-there/
+- title: Privacy Notice
+  url: /privacy-notice/
+- title: Contact Us
+  url: /contact-us/
