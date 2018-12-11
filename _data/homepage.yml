@@ -18,7 +18,7 @@ hero-banner: images/SG-China-IDRC–Website-NIGHT-11Dec18.jpg
 #Call to Action Button
 button:
   - text: Learn More
-    url: /conference-programme/
+    url: left-nav-one/conference-programme/
 
 key-highlights:
   - title: Highlight A
