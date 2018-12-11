@@ -13,13 +13,13 @@ agency-logo: /images/isomer-logo.svg
 # Hero Banner
 hero-title: Hero title
 hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-banner: images/SG-China-IDRC–Website-NIGHT-11Dec18.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
     url: /who-we-are/
-    
+
 key-highlights:
   - title: Highlight A
     description: Important highlight A is important
