@@ -27,11 +27,11 @@ key-highlights:
     external: true
   - title: Conference Speakers
     description: Click to view the conference speakers
-    url: https://yahoo.com
+    url: /left-nav-one/conference-speakers/
     external: true
   - title: Partner Organisations
     description: Click to view Partner Organisations
-    url: /page-A/
+    url: /left-nav-one/partner-organisations/
 
 resources-title: Resources
 resources-subtitle: Be in the know
