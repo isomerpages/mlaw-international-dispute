@@ -12,8 +12,8 @@ agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
 hero-title: China-Singapore International Dispute Resolution Conference
-hero-subtitle: January 2019
-hero-banner: images/SG-China-IDRC–Website-NIGHT-11Dec18.jpg
+hero-subtitle: 24 January 2019
+hero-banner: images/SG-China-IDRC%E2%80%93Website-NIGHT-300dpi.jpg
 
 #Call to Action Button
 button:
@@ -21,16 +21,16 @@ button:
     url: left-nav-one/conference-programme/
 
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Conference Programme
+    description: Click to view the conference programme
+    url: /left-nav-one/conference-programme/
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
+  - title: Conference Speakers
+    description: Click to view the conference speakers
     url: https://yahoo.com
     external: true
-  - title: Page A
-    description: Page A is important too
+  - title: Partner Organisations
+    description: Click to view Partner Organisations
     url: /page-A/
 
 resources-title: Resources
