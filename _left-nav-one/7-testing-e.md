@@ -6,5 +6,5 @@ breadcrumb: Testing E
 collection_name: left-nav-one
 ---
 
-##Yer a wizard Harry
+Yer a wizard Harry
 
