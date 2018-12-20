@@ -15,7 +15,7 @@ breadcrumb: Test Page for Jacq
 
 3.    The CJC’s key recommendations include:
 
-         **a.    Grant the courts greater control and flexibility over proceedings 
+         *a.    Grant the courts greater control and flexibility over proceedings* 
 
 		- When an action is commenced, the court will take control instead of leaving parties to determine the pace and intensity of the proceedings;
 
