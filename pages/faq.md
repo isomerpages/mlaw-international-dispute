@@ -21,3 +21,4 @@ title: FAQ
 
 [test](https://www.facebook.com/)
 
+[test](https://www.facebook.com/){:target="_blank"} 
