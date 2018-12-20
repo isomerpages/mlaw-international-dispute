@@ -12,18 +12,16 @@ breadcrumb: Test Page for Jacq
 2. Point 2
 
 
-5.    The CJC’s key recommendations include:
+
+3.    The CJC’s key recommendations include:
+
+         a.    Grant the courts greater control and flexibility over proceedings 
+
+		- When an action is commenced, the court will take control instead of leaving parties to determine the pace and intensity of the proceedings;
+
+		- The trial judge and registrar will be given the autonomy and flexibility to manage their cases.
 
  
-
-        a.    Grant the courts greater control and flexibility over proceedings 
-
-- When an action is commenced, the court will take control instead of leaving parties to determine the pace and intensity of the proceedings;
-
-- The trial judge and registrar will be given the autonomy and flexibility to manage their cases.
-
- 
-
         b.    Simplify and expedite applications and appeals on procedural matters so that disputes are resolved on the factual and legal merits.    
 
 - Speed up appeals from applications by requiring the parties to file only written submissions with the appeal proceeding as a rehearing based on documents filed by the parties, and hearing all such appeals together;
